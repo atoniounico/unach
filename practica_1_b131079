@@ -1,0 +1,60 @@
+<html>
+<head> </head>
+<body>
+<form>
+<center>
+
+<table border="1">
+       <tr>
+       <th> Nuevo Alumno: </th>
+       <th>   </th>
+       </tr>
+
+       
+       <tr>
+       <td> Matricula: <input type="text"size="10" maxlength="10"><br></td>
+       <td> Fecha Nac: <input type="date" name="bday"></td>
+       </tr>
+       
+      
+
+       <tr>
+       <td> Nombre: <input type="text"size="10" maxlength="10"><br> </td>
+       <td> Edad: <input type="number" name="num" min="0" max="50"></td>
+       </tr>
+
+       <tr>
+       <td> Apellido Pat: <input type="text"size="10" maxlength="10"><br></td>
+       <td> Municipio:<select name="Municipio"><br>
+        <option valeue="1">Tuxtla chico</option>
+        <option valeue="2">Cacahoatan</option>
+        <option valeue="3">Ciudad hidalho</option>
+        <option valeue="4">Huixtla</option>
+        <option valeue="5">Huehuetan</option>
+        <option valeue="6">Villa comaltitlan</option>          
+        <select></td>
+       </tr>
+
+       <tr>
+       <td> Apellido Mat: <input type="text"size="10" maxlength="10"><br></td>
+       <td> Fotografia: <input type="file"="examinar"></td>
+       </tr>
+        
+       <tr>
+       <td>  <input type="submit" value="registrar"> </td>
+       </tr>
+      
+
+</center>
+</form>
+
+</table>
+
+   
+
+</body>
+       
+</html>
+
+
+de prferencia abrase con google
