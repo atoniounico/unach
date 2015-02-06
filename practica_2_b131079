@@ -1,0 +1,71 @@
+<html>
+<head> </head>
+<body>
+<form>
+<center>
+
+<table border="1">
+
+       <tr>
+       <th> Artista: </th>
+       </tr>
+
+       
+       <tr>
+       <td> Vicente Fernandez:<br></td>
+       </tr>
+	<tr>
+	
+       <td> <img src="vijente.jpg" alt="vijente" style="width:580px;height:370px"><br></td>
+       <td> Biografia:<article>Vicente Fernández Gómez nació el 17 de febrero 
+                               de 1940 en la localidad mexicana
+                               de Huentitán el Alto, en tierras de Jalisco. 
+                               Su familia era de clase humilde y desde muy niño se vio obligado
+                               a trabajar en diferentes oficios para ganar algo de dinero y poder 
+                               sobrevivir dignamente. 
+                               Nada en sus orígenes ni ancestros hacia presagiar que con los años se le conocería como
+                               El charro de Huentitán y recibiría de sus admiradores calificativos tan elogiosos como 
+                               El rey de la canción ranchera.
+
+                              El pequeño Chente, como era familiarmente  llamado entonces, tenía sin embargo ideas claras:
+                              su ídolo era el también cantante de rancheras y actor Pedro Infante, cuyas películas devoraba en el cine.
+                              Quería ser como él, y a los ocho años comenzó a rasguear la guitarra y a cantar las rancheras que oía
+                              en la radio. Los inicios no fueron fáciles: había que compaginar la música con la supervivencia, 
+                              estar dispuesto a actuar en los más precarios escenarios y aprovechar la más pequeña oportunidad 
+                              para darse a conocer, ni que fuese en círculos reducidos o en certámenes de aficionados. </article> 
+                              </tr>
+       
+      
+
+       
+
+       <tr>
+       <td><video id="my video" width="480" height="360" controls>
+       <source src="vicente.mp4" type="video/mp4">
+       <source src="vicente.ogg" type="video/ogg">
+       Your browser does not support HTML5 video.
+       </video></td>
+       </tr>
+       
+       
+       <tr>
+       <td><audio controls>
+       <source src="vicente.ogg" type="audio/ogg">
+       <source src="vicente.mp3" type="audio/mpeg">
+       Your browser does not support the audio tag.
+       </audio></td>
+       </tr>
+       
+        
+      
+
+</center>
+</form>
+
+</table>
+
+   
+
+</body>
+       
+</html>
